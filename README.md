@@ -5,8 +5,5 @@ tmux session manager utility
 Install `fzf` on your system.
 
 ### Usage
-Just source the function or put it inside your `~/.zshrc`.
-
-### Support
-Currently only `zsh` is supported.
+Just source the function or put it inside your `~/.bashrc` or `~/.zshrc`.
 
